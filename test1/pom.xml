@@ -7,7 +7,7 @@
   	<dependency>
   		<groupId>org.seleniumhq.selenium</groupId>
   		<artifactId>selenium-java</artifactId>
-  		<version>Latest</version>
+  		<version>3.14.576</version>
   	</dependency>
   	
   	<!-- https://mvnrepository.com/artifact/org.testng/testng -->
